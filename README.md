@@ -1,12 +1,22 @@
-# 📌 SuperMemory
+# Parser
 
-SuperMemory is a content bookmarking tool that helps you **save**, **organize**, and **retrieve** your favorite links, articles, and ideas effortlessly.
+A simple File Parser that extracts relevant information such as name, email, phone number, skills, and education from uploaded resumes.
 
 ## ✨ Features
 
-- 🔖 Save links and notes with one click
-- 🗂️ Organize bookmarks by categories or tags
-- 🔍 Search through saved content
-- 🧠 Simple, clutter-free interface to help you focus on what matters
-- the production ready code would be deployed soon :)
-  
+- 📥 Upload files (PDF/DOCX)
+- 🧠 Automatically extract key information:
+  - Name
+  - Contact details
+  - Skills
+  - Experience
+  - Education
+- 📊 Output structured data (JSON or table)
+
+## 🚀 Getting Started
+
+1. Clone the repo
+
+```bash
+git clone https://github.com/your-username/resume-parse
+
