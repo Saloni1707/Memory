@@ -18,5 +18,5 @@ A simple File Parser that extracts relevant information such as name, email, pho
 1. Clone the repo
 
 ```bash
-git clone https://github.com/your-username/resume-parse
+https://github.com/Saloni1707/Memory.git
 
